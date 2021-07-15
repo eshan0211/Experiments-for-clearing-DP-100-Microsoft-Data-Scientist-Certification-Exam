@@ -9,7 +9,7 @@
 | S.No | Name of the experiment | Link |
 | ---- | ---------------------- | ---- |
 |   1  | Two-Class Logistic Regression | [Loan-Prediction](https://github.com/eshan0211/Two-Class-Logistic-Regression-Model---Loan-Prediction---using-Microsoft-AZURE-ML-Studio) |
-|   2  | Two-Class Boosted Decision Tree | [Bank-Telemarketing-Prediction](https://github.com/eshan0211/Two-Class-Logistic-Regression-Model---Loan-Prediction---using-Microsoft-AZURE-ML-Studio) |
+|   2  | Two-Class Boosted Decision Tree | [Bank-Telemarketing-Prediction](https://github.com/eshan0211/Two-Class-Boosted-Decision-Tree---Bank-Telemarketing-Prediction---using-Microsoft-AzureML-Studio) |
 
 
 More to be added soon.....
